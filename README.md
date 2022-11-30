@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This repository is for our ICCBDAI 2022 paper 'Adaptive Contour Noise Generation Model for Semi-supervised 3D Medical Data Segmentation'.
+This repository is for our ICAIBD 2023 paper 'Adaptive Contour Noise Generation Network for Semi-supervised Medical Data Segmentation'.
 
 ### Installation
 
