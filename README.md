@@ -1,4 +1,4 @@
-# Adaptive Contour Noise Generation Model for Semi-supervised 3D Medical Data Segmentation
+# Adaptive Contour Noise Generation Network for Semi-supervised Medical Data Segmentation
 
 ### Introduction
 
